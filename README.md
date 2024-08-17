@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshvaishnani" alt="darshvaishnani" /></a> </p>
 
-<div class="tenor-gif-embed" data-postid="14679252776738406184" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/game-changer-game-changers-no-code-nocode-no-code-sticker-gif-14679252776738406184">Game Changer Game Changers Sticker</a>from <a href="https://tenor.com/search/game+changer-stickers">Game Changer Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 - 🔭 I’m currently working on **Stock Market Price Prediction Using RL**
 
 - 🌱 I’m currently learning **Reinforcement Learning**
