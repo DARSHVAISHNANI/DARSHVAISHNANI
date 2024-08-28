@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/darsh-vaishnani**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gP6G4K-CHa0ItMOfHfqx3TLKpGEyRmcY/view?usp=sharing](https://drive.google.com/file/d/1gP6G4K-CHa0ItMOfHfqx3TLKpGEyRmcY/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1gP6G4K-CHa0ItMOfHfqx3TLKpGEyRmcY/view?usp=sharing](https://drive.google.com/file/d/1UZivvf6NgO6VWegBL75I2QJRfZ2lTiaw/view?usp=drive_link))
 
 - ⚡ Fun fact **I think, I can do internship in foreign along with my 4th year studies 😂.**
 
