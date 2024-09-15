@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshvaishnani" alt="darshvaishnani" /></a> </p>
 
-- 🔭 I’m currently working on **Stock Market Price Prediction Using RL**
+- 🔭 I’m currently working on **Classification of Harmful Brain Activity Using Deep Learning Technology**
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 
