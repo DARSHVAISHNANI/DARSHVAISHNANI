@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DARSH VAISHNANI</h1>
-<h3 align="center">"Passionate AI/ML Explorer |🔍 RL Enthusiast | 🤖 Machine Learning|✍️ Creative Tech Content Creator | 🎓 CSE Scholar at CHARUSAT"</h3>
+<h3 align="center">"Passionate AI/ML Explorer |🔍 Deep Learning | 🤖 Machine Learning|✍️ Creative Tech Content Creator | 🎓 CSE Scholar at CHARUSAT"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshvaishnani&label=Profile%20views&color=0e75b6&style=flat" alt="darshvaishnani" /> </p>
 
@@ -8,8 +8,6 @@
 - 🔭 I’m currently working on **Classification of Harmful Brain Activity Using Deep Learning Technology**
 
 - 🌱 I’m currently learning **Reinforcement Learning**
-
-- 🤝 I’m looking for help with **Deep Racer**
 
 - 💬 Ask me about **Machine Learning, Deep Learning and anything related to research work.**
 
