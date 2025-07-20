@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Classification of Harmful Brain Activity Using Deep Learning Technology**
 
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🌱 I’m currently learning **Ai Agent**
 
 - 💬 Ask me about **Machine Learning, Deep Learning and anything related to research work.**
 
